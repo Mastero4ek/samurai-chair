@@ -140,7 +140,7 @@ window.addEventListener('DOMContentLoaded', () => {
       }
 
         
-        const yaScript = document.createElement('script');
+          const yaScript = document.createElement('script');
     
         yaScript.type = 'text/javascript';
         yaScript.src = "https://api-maps.yandex.ru/2.1/?apikey=76e41e6b-f3a9-4a9c-80d3-17839d5764b8&lang=ru_RU";
